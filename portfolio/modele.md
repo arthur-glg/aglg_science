@@ -10,13 +10,13 @@
 
 🏡 Analyse urbaine d'un parcours et de son espace public <a href="file/aglg - Diagnostic urbain.pdf" download ="aglg - Rayonnement solaire et performance énergétique d'un bâtiment.pdf">[pdf]</a> 
 
-🌿 Extrait d'un rapport de classe: espace de vie et espace vécu <a href="file/aglg - Ressenti urbain.pdf" download ="aglg - Ressenti urbain">[pdf]</a> 
+🌿 Extrait d'un rapport de classe: espace de vie et espace vécu <a href="file/aglg - Ressenti urbain.pdf" download ="aglg - Ressenti urbain.pdf">[pdf]</a> 
 
-🏰 Maquette architecturale et urbaine <a href="file/aglg - Maquette architecturale.pdf" download ="aglg - Ressenti urbain">[pdf]</a> 
+🏰 Maquette architecturale et urbaine <a href="file/aglg - Maquette architecturale.pdf" download ="aglg - Maquette architecturale.pdf">[pdf]</a> 
 
 # Semestre de printemps 2020
 
-🎤 Bruit des avions: normes et réglementations <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Ressenti urbain">[pdf]</a>
+🎤 Bruit des avions: normes et réglementations <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
 
 🌊 Mécanique des fluides: travaux pratiques <a href="file/aglg - TP mécanique des fluides.pdf" download ="aglg - TP mécanique des fluides.pdf">[pdf]</a>
 
