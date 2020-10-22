@@ -4,7 +4,7 @@
 
 # Semestre d'automne 2019
 
-☕️ Management de la qualité, normalisation et maîtrise des risques d'un distributeur automatique de boissons chaudes <a href="file/aglg - Qualité, normaliation d'un distributeur de boisssons .pdf">[pdf]</a>
+☕️ Management de la qualité, normalisation et maîtrise des risques d'un distributeur automatique de boissons chaudes <a href="file/aglg - Qualité, normaliation d'un distributeur de boisssons .pdf" dowload="https://arthur-glg.github.io/aglg_science/portfolio/portfolio.html">[pdf]</a>
 
 🏙 Densification urbaine avec optimisation du rayonnement solaire et évaluation de la performance énergétique d'un bâtiment <a href="file/aglg - Rayonnement solaire et performance énergétique d'un bâtiment.pdf" download ="UR05">[pdf]</a> 
 
