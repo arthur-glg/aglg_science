@@ -26,11 +26,11 @@
 
 🎏 Rapport de recherche autour d'un documentaire vidéo <a href="file/aglg - Nature et culture à Tokyo.pdf" download ="aglg - Nature et culture à Tokyo.pdf">[pdf]</a>
 
-🔊 Norme et réglementations en acoustique : le bruit des avions <a href="aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
+🔊 Normes et réglementations en acoustique : le bruit des avions <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
 
 # Semestre d'automne 2020
 
-🏫 Rapport de stage : programmation architecturale et urbaine <a href="aglg - stage prog archi&urba.pdf" download ="aglg - stage prog archi&urba.pdf">[pdf]</a>
+🏫 Rapport de stage : programmation architecturale et urbaine <a href="file/aglg - Stage prog archi&urba.pdf" download ="aglg - Stage prog archi&urba.pdf">[pdf]</a>
 
 <title>Portfolio</title> 
 
