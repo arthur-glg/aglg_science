@@ -30,7 +30,7 @@
 
 # Semestre d'automne 2020
 
-🏫 Rapport de stage : programmation architecturale et urbaine <a href="file/aglg - Stage prog archi&urba.pdf" download ="aglg - Stage prog archi&urba.pdf">[pdf]</a>
+🏫 Rapport de stage : programmation architecturale et urbaine <a href="file/aglg - stage prog archi&urba.pdf" download ="aglg - Stage prog archi&urba.pdf">[pdf]</a>
 
 <title>Portfolio</title> 
 
