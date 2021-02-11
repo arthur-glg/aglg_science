@@ -1,8 +1,6 @@
-![titre portfolio](titre portfolio.png)
+# <div style="text-align:center;font-style: italic"> Portfolio universitaire </div>
 
-
-
-# Semestre d'automne 2019
+## Semestre d'automne 2019
 
 ☕️ Management de la qualité, normalisation et maîtrise des risques d'un distributeur automatique de boissons chaudes <a href="file/aglg - Qualité, normaliation d'un distributeur de boisssons .pdf" dowload="https://arthur-glg.github.io/aglg_science/portfolio/portfolio.html">[pdf]</a>
 
@@ -14,7 +12,7 @@
 
 🏰 Maquette architecturale et urbaine <a href="file/aglg - Maquette architecturale.pdf" download ="aglg - Maquette architecturale.pdf">[pdf]</a> 
 
-# Semestre de printemps 2020
+## Semestre de printemps 2020
 
 🎤 Bruit des avions: normes et réglementations <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
 
@@ -28,9 +26,9 @@
 
 🔊 Normes et réglementations en acoustique : le bruit des avions <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
 
-# Semestre d'automne 2020
+## Semestre d'automne 2020
 
-🏫 Rapport de stage : programmation architecturale et urbaine <a href="file/aglg - stage prog archi&urba.pdf" download ="aglg - stage prog archi&urba.pdf">[pdf]</a>
+🏫 Rapport de stage : programmation architecturale et urbaine <a href="file/aglg - Stage prog archi&urba.pdf" download ="aglg - Stage prog archi&urba.pdf">[pdf]</a>
 
 <title>Portfolio</title> 
 
