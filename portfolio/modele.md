@@ -1,8 +1,6 @@
 <title>Portfolio</title> 
 
-# <div style="text-align:center;font-style: italic"> 
-
-# Portfolio universitaire </div>
+# <div style="text-align:center;font-style: italic"> Portfolio universitaire </div>
 
 ## Semestre d'automne 2019
 
@@ -17,8 +15,6 @@
 🏰 Maquette architecturale et urbaine <a href="file/aglg - Maquette architecturale.pdf" download ="aglg - Maquette architecturale.pdf">[pdf]</a> 
 
 ## Semestre de printemps 2020
-
-🎤 Bruit des avions: normes et réglementations <a href="file/aglg - Bruit des avions.pdf" download ="aglg - Bruit des avions.pdf">[pdf]</a>
 
 🌊 Mécanique des fluides: travaux pratiques <a href="file/aglg - TP mécanique des fluides.pdf" download ="aglg - TP mécanique des fluides.pdf">[pdf]</a>
 
