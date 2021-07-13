@@ -32,7 +32,7 @@
 
 ## Semestre de printemps 2021
 
-🚀 Rapport de recherche : les réacteur à propulsion nucléaire <a href="file/aglg - Réacteurs à propulsion nucléaire.pdf" download ="aglg - Réacteurs à propulsion nucléaire.pdf">[pdf]</a>
+🚀 Rapport de recherche : les réacteurs à propulsion nucléaire <a href="file/aglg - Réacteurs à propulsion nucléaire.pdf" download ="aglg - Réacteurs à propulsion nucléaire.pdf">[pdf]</a>
 
 ☀️ Modélisation du système multi-physique de MPPT PV indirectes <a href="file/aglg - MPPT PV indirectes.pdf" download ="aglg - MPPT PV indirectes.pdf">[pdf]</a>
 
